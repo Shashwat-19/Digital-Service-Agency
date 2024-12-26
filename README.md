@@ -18,7 +18,12 @@ Welcome to **Digital Service Agency** – a Java-based Employee Management Syste
 
 🖥️ *Interface Sneak Peek* – 
 
-*(Add screenshots here)*
+<p align="center">
+  <img src="https://github.com/Shashwat-19/Digital-Service-Agency/raw/main/Adding.png" width="45%"/>
+  <img src="https://github.com/Shashwat-19/Digital-Service-Agency/raw/main/Adding-2.png" width="45%"/>
+  <img src="https://github.com/Shashwat-19/Digital-Service-Agency/raw/main/Selecting.png" width="45%"/>
+  <img src="https://github.com/Shashwat-19/Digital-Service-Agency/raw/main/Deleting.png" width="45%"/>
+</p>
 
 ---
 
